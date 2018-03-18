@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: b84da32e94b48124ea4d902e9a8685f2
+timeCreated: 1517483905
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Border
+    100002: BottomLeg
+    100004: BottomLegLeft
+    100006: BottomLegLeftRight
+    100008: Cube_001
+    100010: LeftHand
+    100012: LeftHandBorder
+    100014: LeftHandBorderTop
+    100016: LeftHandBottom
+    100018: LeftHandTop
+    100020: RightHand
+    100022: RightHand_001
+    100024: RightHand_002
+    100026: RightHandBorder
+    100028: RightHandBorderTop
+    100030: RightHandBorderTop2
+    100032: RightHandBorderTop_001
+    100034: //RootNode
+    100036: TopLeg
+    100038: TopLegBorder
+    100040: RightHandBorder_001
+    400000: Border
+    400002: BottomLeg
+    400004: BottomLegLeft
+    400006: BottomLegLeftRight
+    400008: Cube_001
+    400010: LeftHand
+    400012: LeftHandBorder
+    400014: LeftHandBorderTop
+    400016: LeftHandBottom
+    400018: LeftHandTop
+    400020: RightHand
+    400022: RightHand_001
+    400024: RightHand_002
+    400026: RightHandBorder
+    400028: RightHandBorderTop
+    400030: RightHandBorderTop2
+    400032: RightHandBorderTop_001
+    400034: //RootNode
+    400036: TopLeg
+    400038: TopLegBorder
+    400040: RightHandBorder_001
+    2100000: unnamed
+    2300000: Border
+    2300002: BottomLeg
+    2300004: BottomLegLeft
+    2300006: BottomLegLeftRight
+    2300008: Cube_001
+    2300010: LeftHand
+    2300012: LeftHandBorder
+    2300014: LeftHandBorderTop
+    2300016: LeftHandBottom
+    2300018: LeftHandTop
+    2300020: RightHand
+    2300022: RightHand_001
+    2300024: RightHand_002
+    2300026: RightHandBorder
+    2300028: RightHandBorderTop
+    2300030: RightHandBorderTop2
+    2300032: RightHandBorderTop_001
+    2300034: //RootNode
+    2300036: TopLeg
+    2300038: TopLegBorder
+    2300040: RightHandBorder_001
+    3300000: Border
+    3300002: BottomLeg
+    3300004: BottomLegLeft
+    3300006: BottomLegLeftRight
+    3300008: Cube_001
+    3300010: LeftHand
+    3300012: LeftHandBorder
+    3300014: LeftHandBorderTop
+    3300016: LeftHandBottom
+    3300018: LeftHandTop
+    3300020: RightHand
+    3300022: RightHand_001
+    3300024: RightHand_002
+    3300026: RightHandBorder
+    3300028: RightHandBorderTop
+    3300030: RightHandBorderTop2
+    3300032: RightHandBorderTop_001
+    3300034: //RootNode
+    3300036: TopLeg
+    3300038: TopLegBorder
+    3300040: RightHandBorder_001
+    4300000: Cube
+    4300002: RightHand
+    4300004: RightHandBorderTop_001
+    4300006: RightHand_002
+    4300008: RightHand_001
+    4300010: RightHandBorder
+    4300012: RightHandBorderTop
+    4300014: RightHandBorderTop2
+    4300016: LeftHand
+    4300018: LeftHandTop
+    4300020: LeftHandBottom
+    4300022: LeftHandBorder
+    4300024: LeftHandBorderTop
+    4300026: Border
+    4300028: BottomLeg
+    4300030: BottomLegLeftRight
+    4300032: BottomLegLeft
+    4300034: TopLeg
+    4300036: TopLegBorder
+    4300038: Cube_001
+    4300040: RightHandBorder_001
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
